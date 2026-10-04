@@ -11,8 +11,6 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-import pojo.Employee;
-
 public class Java8 {
 	
 	public static void main(String[] args) {
