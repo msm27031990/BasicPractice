@@ -23,9 +23,9 @@ public class Stack {
 
 class StackImpl{
 	
-	private int[] stack;
+	private final int[] stack;
 	private int top;
-	private int capacity;
+	private final int capacity;
 	
 	StackImpl(int capacity){
 		this.capacity = capacity; 

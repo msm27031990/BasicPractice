@@ -1,6 +1,6 @@
 package gladiators;
 
-public class Insomnia_test {
+public class InsomniaByArray {
 	static int a[]= new int[10];;
 	public static void main(String args[])
 	{
